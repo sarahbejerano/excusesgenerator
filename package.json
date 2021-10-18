@@ -1,0 +1,19 @@
+{
+  "name": "excusesgenerator",
+  "version": "1.0.0",
+  "description": "Disneyland para procrastinadores y perezosos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahbejerano/excusesgenerator.git"
+  },
+  "author": "sarahbejerano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahbejerano/excusesgenerator/issues"
+  },
+  "homepage": "https://github.com/sarahbejerano/excusesgenerator#readme"
+}
